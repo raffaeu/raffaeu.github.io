@@ -10,6 +10,7 @@ github_username:  raffaeu
 # Build settings
 markdown: kramdown
 # theme: jekyll-swiss
+# theme: jekyll-theme-tactile
 remote_theme: jekyll-swiss
 theme_color: white
 

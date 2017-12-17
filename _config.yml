@@ -1,0 +1,23 @@
+title: Raffaeu's Blog
+email: raffaeu@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Software Architect with a passion for Kitesurf.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://blog.raffaeu.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: raffaeu
+github_username:  raffaeu
+
+# Build settings
+markdown: kramdown
+theme: jekyll-swiss
+remote_theme: jekyll-swiss
+theme_color: white
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - kramdown
+
+# jekyll paginate, posts per page
+paginate: 6

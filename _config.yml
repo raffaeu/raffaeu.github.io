@@ -11,8 +11,8 @@ github_username:  raffaeu
 markdown: kramdown
 # theme: jekyll-swiss
 # theme: jekyll-theme-tactile
-remote_theme: jekyll-swiss
-theme_color: white
+# remote_theme: jekyll-swiss
+# theme_color: white
 
 plugins:
   - jekyll-feed

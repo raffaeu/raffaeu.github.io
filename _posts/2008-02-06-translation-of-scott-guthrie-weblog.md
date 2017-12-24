@@ -5,9 +5,9 @@ date: 2008-02-06T20:22:01+00:00
 author: raffaeu
 layout: post
 guid: http://raffaeu.com/?p=5
-permalink: /archive/2008/02/06/translation-of-scott-guthrie-weblog.aspx
+permalink: permalink: /archive/:year/:month/:day/:title/
 categories:
-  - Uncategorized
+  - General
 ---
 Starting from today, you can Find a new SubDomain in my WebLog, called <http://blog.raffaeu.com/ScottGu/Default.aspx>
 

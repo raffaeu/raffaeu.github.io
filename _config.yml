@@ -22,4 +22,4 @@ plugins:
 
 # jekyll paginate, posts per page
 paginate: 6
-theme: jekyll-theme-tactile
+theme: minimal
